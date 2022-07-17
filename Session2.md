@@ -1,4 +1,5 @@
 #Nubik
+
 [Link](https://www.nubikk.com/nl)
 
 
@@ -25,7 +26,7 @@
 * Not trustworthy enough
 * Inconsistent color scheme
 
-#Ugmonk
+# Ugmonk
 [Link](http://ugmonk.com/)
 
 * Looks premium [Female]
@@ -34,7 +35,7 @@
 * Doesn't look premium
 * Good enough to convert into sales
 
-#Jeanshop
+# Jeanshop
 [Link](https://jeanshop.co/)
 
 * Looks very cool [Female]
@@ -44,7 +45,7 @@
 * Looks very premium
 * There are some usability issues in add to cart
 
-#Wildsouls
+# Wildsouls
 [Link](https://www.wildsouls.gr/en)
 
 * Like product packaging
